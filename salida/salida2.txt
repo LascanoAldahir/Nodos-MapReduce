@@ -1,0 +1,6 @@
+Ejecutando mapReduce.py con argumentos: ['mapReduce.py', '/app/entrada/texto2.txt']
+"ahora"	1
+"texto"	1
+"2"	1
+"sigue"	1
+"el"	1
